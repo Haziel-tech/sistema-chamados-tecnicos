@@ -161,12 +161,3 @@ O header `Authorization: Bearer <token>` também é obrigatório nas requisiçõ
 | Gerenciar usuários | admin |
 | Gerenciar categorias | admin |
 | Remover chamado | admin |
-
-## 🚧 Fora do escopo (Fase 1)
-
-- Frontend em React (Fase 2)
-- Notificações push/e-mail
-- Chat em tempo real
-- SLA automatizado
-- Anexos de arquivo
-- Aplicativo mobile
